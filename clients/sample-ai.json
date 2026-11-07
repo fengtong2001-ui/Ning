@@ -1,0 +1,11 @@
+{
+  "name": "样例客户 · AI 行业",
+  "slug": "sample-ai",
+  "hours": 20,
+  "sources": [
+    {"type": "rss", "name": "OpenAI 官方", "url": "https://openai.com/news/rss.xml", "limit": 5},
+    {"type": "rss", "name": "Google AI 博客", "url": "https://blog.google/technology/ai/rss/", "limit": 5},
+    {"type": "rss", "name": "Hacker News 热榜", "url": "https://hnrss.org/frontpage",
+     "keywords": ["ai", "llm", "model", "agent", "openai", "anthropic", "gemini"], "limit": 8}
+  ]
+}

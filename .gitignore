@@ -1,0 +1,6 @@
+out/
+state.json
+__pycache__/
+*.pyc
+.secrets/
+.env
